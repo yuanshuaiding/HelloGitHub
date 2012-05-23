@@ -8,5 +8,9 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="在服务器端修改了文件" />
+     <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="在客户端修改了文件" />
 
 </LinearLayout>
